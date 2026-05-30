@@ -1,0 +1,23 @@
+# Package Dependencies
+/vendor/
+
+# Local Environment & Testing Artifacts
+.env
+.env.backup
+.phpunit.cache/
+.pesttracker/
+/report/
+/coverage/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
